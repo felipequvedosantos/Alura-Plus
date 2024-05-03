@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --branco-principal: #070a06;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #0368ec;
+    --cor-de-fundo: #0a0202;
+}
+body {
+    
+        background-color: var(--cor-de-fundo);
+        color: var(--branco-principal);
+}
